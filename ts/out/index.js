@@ -1,0 +1,9 @@
+var isDone = false;
+var createByNewBoolean = new Boolean(1);
+var decLiteral = 6;
+var noNumber = NaN;
+var inifityNumber = Infinity;
+var hexLiteral = 0xf00d;
+var myName = 'gzf';
+var myAge = 25;
+var sentence = "Hello my name is " + myName;
